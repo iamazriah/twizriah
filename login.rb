@@ -1,8 +1,8 @@
 require 'oauth'
 require 'twitter'
 
-ctoken = 'gdewglXHW5SuI1xndfnw'
-csecret = '6xphMK1Bkuvi4ZM0PhDR4217b3rxn7PCGy3RxETIVc'
+ctoken = ''
+csecret = ''
 url = 'http://api.twitter.com'
 
 p 'Login? yes/no'
